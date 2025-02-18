@@ -33,5 +33,5 @@ Using different `sklearn` libraries such as `train_test_split` and `LogisticRegr
 
 The Logistic Regression model did quite well in this loan analysis exercise. It's overall accuracy is very high; it has excellent metrics with the identification of `0` loans. 
 
-Though it was less accurate with the identification of `1` status loans, the f1-score of 0.89 suggests that it is still a good model that captures the large majority of problematic loans. In order to reduce financial liability with False Positives (predicted `0`, actual `1`) while we continue to refine the model and epxlore other options, the financial instiution can still make use of this model to some degree if a more thorough review process for predicted `1` loans is established.
+Though it was less accurate with the identification of `1` status loans, the f1-score of 0.89 suggests that it is still a good model that captures the large majority of problematic loans. In order to reduce financial liability with False Positives (predicted `0`, actual `1`) while we continue to refine the model and explore other options, the financial instiution can still make use of this model to some degree if a more thorough review process for predicted `1` loans is established.
 
